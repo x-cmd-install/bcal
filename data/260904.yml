@@ -1,11 +1,13 @@
 about:
-  description: :1234: Bits, bytes and general-purpose calculator
+  description:
+  |
+    :1234: Bits, bytes and general-purpose calculator
   license: GPL-3.0
   homepage: 
   head: a3d8273
   archived: false
   latestVersion: v2.5
-  collectedAt: 2026-09-04T03:58:05Z
+  collectedAt: 2026-09-04T19:20:19Z
 timeline:
   created: 2016-09-21
   lastCommit: 2026-08-16
@@ -16,17 +18,25 @@ popularity:
   fork: 40
   release: 15
   contributor: 9
-  pullRequest: 3
+  pullRequest: 23
   issue: 19
 language:
   C: 76068
   Python: 45629
   Roff: 7816
   Makefile: 1680
-totalLine: 131193
+totalBytes: 131193
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -57,3 +67,21 @@ recent:
     closedIssue: 2
     openIssue: 0
     commit: 65
+  last720d:
+    since: 2024-09-14
+    release: 1
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 73
+total:
+  release: 15
+  mergedPR: 20
+  openPR: 0
+  closedIssue: 19
+  openIssue: 0
+  commit: 407
+---
+---
+
