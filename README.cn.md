@@ -4,7 +4,7 @@
 
 :1234: Bits, bytes and general-purpose calculator
 
-![bcal](https://repo.x-cmd.io/bcal.svg)
+![bcal](https://repo.x-cmd.io/bcal.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,16 @@ x install bcal
 - **最新版本**: `v2.6` (2026-09-05)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-09-05T13:46:17Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [bcal-v2.6.tar.gz](https://github.com/jarun/bcal/releases/download/v2.6/bcal-v2.6.tar.gz) | 47.5 KiB | `native/unknown` |
 
 ## 流行度
 
-- **Star**: 702 · **Fork**: 40 · **开放 issue**: 19 · **贡献者**: 9
+- **Star**: 700 · **Fork**: 40 · **开放 issue**: 19 · **贡献者**: 9
 
 ## 累计统计
 
@@ -61,4 +66,4 @@ bcal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:09:56Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:58:58Z._

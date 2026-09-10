@@ -22,11 +22,16 @@ x install bcal
 - **Latest**: `v2.6` (2026-09-05)
 - **Last commit**: 2026-09-05
 - **Assets in release**: 1
-- **Published**: 2026-09-05T13:46:17Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [bcal-v2.6.tar.gz](https://github.com/jarun/bcal/releases/download/v2.6/bcal-v2.6.tar.gz) | 47.5 KiB | `native/unknown` |
 
 ## Popularity
 
-- **Stars**: 702 · **Forks**: 40 · **Open issues**: 19 · **Contributors**: 9
+- **Stars**: 700 · **Forks**: 40 · **Open issues**: 19 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -57,8 +62,8 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 Install metadata for bcal lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bcal` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/bcal.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/bcal.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:09:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:58:58Z._
