@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 48647,
       "digest": "sha256:5bb315eb1c2ccc17e056247c0601c77dfbbdbef97051bdb522c00fe12b10eaa4",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-09-05T13:46:16Z",
       "updated_at": "2026-09-05T13:46:17Z",
       "browser_download_url": "https://github.com/jarun/bcal/releases/download/v2.6/bcal-v2.6.tar.gz"
