@@ -32,7 +32,7 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.6` (2026-09-05)
-- **Last commit**: 2026-09-05
+- **Last commit**: 2026-09-17
 - **Assets in release**: 1
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 410
+- **Releases**: 16 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 411
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-18 | 1 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-06-18 | 1 | 0 | 0 | 0 | 0 | 5 |
-| last180d | 2026-03-20 | 1 | 0 | 0 | 2 | 0 | 12 |
-| 360d | 2025-09-21 | 2 | 0 | 0 | 2 | 0 | 68 |
-| last720d | 2024-09-26 | 2 | 3 | 0 | 2 | 0 | 76 |
+| 30d | 2026-08-18 | 1 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-19 | 1 | 0 | 0 | 0 | 0 | 5 |
+| 90d | 2026-06-19 | 1 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-03-21 | 1 | 0 | 0 | 2 | 0 | 13 |
+| 360d | 2025-09-22 | 2 | 0 | 0 | 2 | 0 | 69 |
+| last720d | 2024-09-27 | 2 | 3 | 0 | 2 | 0 | 77 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for bcal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:22:55Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:29:39Z._
