@@ -4,7 +4,7 @@
 
 :1234: Bits, bytes and general-purpose calculator
 
-[![x-cmd/install — bcal Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bcal.svg?lang=zh)](https://x-cmd.com/install/bcal)
+[![x-cmd/install — bcal Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bcal.svg?lang=zh)](https://x-cmd.com/install/bcal)
 
 ## 安装
 
@@ -47,12 +47,12 @@ x install bcal
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-24 | 1 | 0 | 0 | 0 | 0 | 5 |
-| 90d | 2026-06-24 | 1 | 0 | 0 | 0 | 0 | 6 |
-| last180d | 2026-03-26 | 1 | 0 | 0 | 2 | 0 | 11 |
-| 360d | 2025-09-27 | 2 | 0 | 0 | 2 | 0 | 69 |
-| last720d | 2024-10-02 | 2 | 3 | 0 | 2 | 0 | 77 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-25 | 1 | 0 | 0 | 0 | 0 | 5 |
+| 90d | 2026-06-25 | 1 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-03-27 | 1 | 0 | 0 | 2 | 0 | 11 |
+| 360d | 2025-09-28 | 2 | 0 | 0 | 2 | 0 | 69 |
+| last720d | 2024-10-03 | 2 | 3 | 0 | 2 | 0 | 77 |
 
 ## Release 资产
 
@@ -69,4 +69,4 @@ bcal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:23:16Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:20:34Z._

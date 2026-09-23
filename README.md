@@ -4,7 +4,7 @@
 
 :1234: Bits, bytes and general-purpose calculator
 
-[![x-cmd/install — bcal Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bcal.svg)](https://x-cmd.com/install/bcal)
+[![x-cmd/install — bcal Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bcal.svg)](https://x-cmd.com/install/bcal)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-24 | 1 | 0 | 0 | 0 | 0 | 5 |
-| 90d | 2026-06-24 | 1 | 0 | 0 | 0 | 0 | 6 |
-| last180d | 2026-03-26 | 1 | 0 | 0 | 2 | 0 | 11 |
-| 360d | 2025-09-27 | 2 | 0 | 0 | 2 | 0 | 69 |
-| last720d | 2024-10-02 | 2 | 3 | 0 | 2 | 0 | 77 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-25 | 1 | 0 | 0 | 0 | 0 | 5 |
+| 90d | 2026-06-25 | 1 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-03-27 | 1 | 0 | 0 | 2 | 0 | 11 |
+| 360d | 2025-09-28 | 2 | 0 | 0 | 2 | 0 | 69 |
+| last720d | 2024-10-03 | 2 | 3 | 0 | 2 | 0 | 77 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for bcal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:23:15Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:20:33Z._
