@@ -47,18 +47,35 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 1 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-24 | 1 | 0 | 0 | 0 | 0 | 5 |
-| last180d | 2026-04-25 | 1 | 0 | 0 | 1 | 0 | 8 |
-| 360d | 2025-10-27 | 2 | 0 | 0 | 2 | 0 | 69 |
-| last720d | 2024-11-01 | 2 | 3 | 0 | 2 | 0 | 77 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 1 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-25 | 1 | 0 | 0 | 0 | 0 | 5 |
+| last180d | 2026-04-26 | 1 | 0 | 0 | 1 | 0 | 8 |
+| 360d | 2025-10-28 | 2 | 0 | 0 | 2 | 0 | 69 |
+| last720d | 2024-11-02 | 2 | 3 | 0 | 2 | 0 | 77 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [bcal-v2.6.tar.gz](https://github.com/jarun/bcal/releases/download/v2.6/bcal-v2.6.tar.gz) | 47.5 KiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **60** distros on [repology.org](https://repology.org/project/bcal). **9** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.5` | ⚠️ outdated |
+| Debian 14 | `2.5` | ⚠️ outdated |
+| Debian 13 | `2.4` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.4` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.4` | ⚠️ outdated |
+| Homebrew | `2.6` | ✅ latest |
+| Fedora rawhide | `2.6` | ✅ latest |
+| Nix unstable | `2.6` | ✅ latest |
+| Void | `2.5` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -69,4 +86,4 @@ Install metadata for bcal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:14:26Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:18:14Z._
