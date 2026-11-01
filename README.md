@@ -22,7 +22,7 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 | Python | 661 | 48 | 143 | 1 |
 | CHeader | 111 | 50 | 30 | 2 |
 | Makefile | 63 | 0 | 19 | 1 |
-| Markdown | 0 | 216 | 61 | 1 |
+| Markdown | 0 | 217 | 61 | 1 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.6` (2026-09-05)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-10-31
 - **Assets in release**: 1
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 411
+- **Releases**: 16 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 412
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 1 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-02 | 1 | 0 | 0 | 0 | 0 | 5 |
-| last180d | 2026-05-04 | 1 | 0 | 0 | 1 | 0 | 8 |
-| 360d | 2025-11-05 | 2 | 0 | 0 | 2 | 0 | 69 |
-| last720d | 2024-11-10 | 2 | 3 | 0 | 2 | 0 | 77 |
+| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-02 | 1 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-03 | 1 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-05-05 | 1 | 0 | 0 | 1 | 0 | 9 |
+| 360d | 2025-11-06 | 2 | 0 | 0 | 2 | 0 | 70 |
+| last720d | 2024-11-11 | 2 | 3 | 0 | 2 | 0 | 78 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for bcal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:01:33Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:32:02Z._
