@@ -1,75 +1,18 @@
-- repo: raspbian_testing
-  subrepo: main
+- repo: devuan_4_0
+  subrepo: chimaera/main
   srcname: bcal
   binnames:
     - bcal
   visiblename: bcal
-  version: "2.5"
-  origversion: 2.5-1
+  version: "2.2"
+  origversion: 2.2-1
   status: outdated
   maintainers:
     - szlin@debian.org
   categories:
     - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: 2.4-2
-  status: outdated
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - misc
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: 2.4-2
-  status: outdated
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - misc
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: 2.4-2
-  status: outdated
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - misc
-- repo: epel_8
-  srcname: bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: 2.4-11.el8
-  status: outdated
-  summary: Storage conversion and expression calculator
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: homebrew
-  srcname: bcal
-  visiblename: bcal
-  version: "2.6"
-  origversion: null
-  status: newest
-  summary: Storage conversion and expression calculator
-- repo: kali_rolling
-  subrepo: main
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: bcal
   binnames:
     - bcal
@@ -194,32 +137,17 @@
     - szlin@debian.org
   categories:
     - misc
-- repo: devuan_4_0
-  subrepo: chimaera/main
+- repo: epel_8
   srcname: bcal
-  binnames:
-    - bcal
   visiblename: bcal
-  version: "2.2"
-  origversion: 2.2-1
+  version: "2.4"
+  origversion: 2.4-11.el8
   status: outdated
-  maintainers:
-    - szlin@debian.org
+  summary: Storage conversion and expression calculator
+  licenses:
+    - GPL-3.0-or-later
   categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.5"
-  origversion: 2.5-1
-  status: outdated
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - misc
+    - Unspecified
 - repo: epel_9
   srcname: bcal
   binnames:
@@ -311,20 +239,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: release
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: 2.4-11.fc42
-  status: legacy
-  summary: Storage conversion and expression calculator
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: updates
   srcname: bcal
   binnames:
@@ -338,14 +252,14 @@
     - GPL-3.0-or-later
   categories:
     - Unspecified
-- repo: fedora_43
+- repo: fedora_42
   subrepo: release
   srcname: bcal
   binnames:
     - bcal
   visiblename: bcal
   version: "2.4"
-  origversion: 2.4-12.fc43
+  origversion: 2.4-11.fc42
   status: legacy
   summary: Storage conversion and expression calculator
   licenses:
@@ -361,6 +275,20 @@
   version: "2.5"
   origversion: 2.5-1.fc43
   status: outdated
+  summary: Storage conversion and expression calculator
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: 2.4-12.fc43
+  status: legacy
   summary: Storage conversion and expression calculator
   licenses:
     - GPL-3.0-or-later
@@ -406,6 +334,26 @@
     - eduardo@freebsd.org
   categories:
     - math
+- repo: homebrew
+  srcname: bcal
+  visiblename: bcal
+  version: "2.6"
+  origversion: null
+  status: newest
+  summary: Storage conversion and expression calculator
+- repo: kali_rolling
+  subrepo: main
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.5"
+  origversion: 2.5-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
 - repo: nix_stable_24_05
   srcname: bcal
   visiblename: bcal
@@ -625,6 +573,58 @@
     - szlin@debian.org
   categories:
     - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: 2.4-2
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: 2.4-2
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: 2.4-2
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.5"
+  origversion: 2.5-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
 - repo: termux
   srcname: bcal
   binname: bcal
@@ -757,9 +757,9 @@
   srcname: bcal
   binname: bcal
   visiblename: bcal
-  version: "2.5"
-  origversion: "2.5_1"
-  status: outdated
+  version: "2.6"
+  origversion: "2.6_1"
+  status: newest
   summary: Byte CALculator for storage conversions and calculations
   maintainers:
     - orphan@voidlinux.org
