@@ -47,12 +47,12 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 2 | 0 | 0 | 1 |
-| last60d | 2026-09-16 | 0 | 0 | 2 | 0 | 0 | 1 |
-| 90d | 2026-08-17 | 1 | 0 | 2 | 0 | 0 | 5 |
-| last180d | 2026-05-19 | 1 | 0 | 2 | 1 | 0 | 9 |
-| 360d | 2025-11-20 | 2 | 0 | 2 | 2 | 0 | 70 |
-| last720d | 2024-11-25 | 2 | 3 | 2 | 2 | 0 | 78 |
+| 30d | 2026-10-17 | 0 | 0 | 2 | 0 | 0 | 1 |
+| last60d | 2026-09-17 | 0 | 0 | 2 | 0 | 0 | 1 |
+| 90d | 2026-08-18 | 1 | 0 | 2 | 0 | 0 | 5 |
+| last180d | 2026-05-20 | 1 | 0 | 2 | 1 | 0 | 9 |
+| 360d | 2025-11-21 | 2 | 0 | 2 | 2 | 0 | 70 |
+| last720d | 2024-11-26 | 2 | 3 | 2 | 2 | 0 | 78 |
 
 ## Release assets
 
@@ -62,11 +62,11 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **61** distros on [repology.org](https://repology.org/project/bcal). **10** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
+Reported by **62** distros on [repology.org](https://repology.org/project/bcal). **12** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.5` | ⚠️ outdated |
+| Debian unstable | `2.5` | 🪦 legacy |
 | Debian 14 | `2.5` | ⚠️ outdated |
 | Debian 13 | `2.4` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.4` | ⚠️ outdated |
@@ -86,4 +86,4 @@ Install metadata for bcal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T05:54:07Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T05:53:44Z._
