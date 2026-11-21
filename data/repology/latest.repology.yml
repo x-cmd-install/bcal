@@ -1,62 +1,3 @@
-- repo: parrot
-  subrepo: parrot/main
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: 2.4-2
-  status: outdated
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: 2.4-2
-  status: outdated
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - misc
-- repo: nix_stable_25_11
-  srcname: bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: null
-  status: outdated
-  summary: Storage conversion and expression calculator
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_24_05
-  srcname: bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: null
-  status: outdated
-  summary: Storage conversion and expression calculator
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_24_11
-  srcname: bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: null
-  status: outdated
-  summary: Storage conversion and expression calculator
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-3.0-only
 - repo: aur
   srcname: bcal
   binname: bcal
@@ -146,17 +87,6 @@
     - szlin@debian.org
   categories:
     - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.1"
-  origversion: 2.1-1
-  status: outdated
-  maintainers:
-    - szlin@debian.org
 - repo: deepin_25
   subrepo: community
   srcname: bcal
@@ -253,17 +183,6 @@
     - GPLv3+
   categories:
     - Unspecified
-- repo: nix_stable_25_05
-  srcname: bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: null
-  status: outdated
-  summary: Storage conversion and expression calculator
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - GPL-3.0-only
 - repo: fedora_40
   subrepo: release
   srcname: bcal
@@ -281,20 +200,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.4"
-  origversion: 2.4-9.fc41
-  status: outdated
-  summary: Storage conversion and expression calculator
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: bcal
   binnames:
@@ -302,6 +207,20 @@
   visiblename: bcal
   version: "2.4"
   origversion: 2.4-11.fc41
+  status: outdated
+  summary: Storage conversion and expression calculator
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: 2.4-9.fc41
   status: outdated
   summary: Storage conversion and expression calculator
   licenses:
@@ -337,20 +256,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.5"
-  origversion: 2.5-1.fc43
-  status: outdated
-  summary: Storage conversion and expression calculator
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: bcal
   binnames:
@@ -359,6 +264,20 @@
   version: "2.4"
   origversion: 2.4-12.fc43
   status: legacy
+  summary: Storage conversion and expression calculator
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.5"
+  origversion: 2.5-1.fc43
+  status: outdated
   summary: Storage conversion and expression calculator
   licenses:
     - GPL-3.0-or-later
@@ -379,20 +298,6 @@
   categories:
     - Unspecified
 - repo: fedora_45
-  subrepo: release
-  srcname: bcal
-  binnames:
-    - bcal
-  visiblename: bcal
-  version: "2.5"
-  origversion: 2.5-2.fc45
-  status: legacy
-  summary: Storage conversion and expression calculator
-  licenses:
-    - GPL-3.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_45
   subrepo: updates
   srcname: bcal
   binnames:
@@ -401,6 +306,20 @@
   version: "2.6"
   origversion: 2.6-1.fc45
   status: newest
+  summary: Storage conversion and expression calculator
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.5"
+  origversion: 2.5-2.fc45
+  status: legacy
   summary: Storage conversion and expression calculator
   licenses:
     - GPL-3.0-or-later
@@ -452,6 +371,50 @@
     - szlin@debian.org
   categories:
     - misc
+- repo: nix_stable_24_05
+  srcname: bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: null
+  status: outdated
+  summary: Storage conversion and expression calculator
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: null
+  status: outdated
+  summary: Storage conversion and expression calculator
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: null
+  status: outdated
+  summary: Storage conversion and expression calculator
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: null
+  status: outdated
+  summary: Storage conversion and expression calculator
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-only
 - repo: nix_stable_26_05
   srcname: bcal
   visiblename: bcal
@@ -534,6 +497,32 @@
   visiblename: bcal
   version: "2.2"
   origversion: 2.2-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: 2.4-2
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: bcal
+  binnames:
+    - bcal
+  visiblename: bcal
+  version: "2.4"
+  origversion: 2.4-2
   status: outdated
   maintainers:
     - szlin@debian.org
