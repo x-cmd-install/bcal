@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-:1234: Bits, bytes and general-purpose calculator
+:1234: Storage and general-purpose calculator
 
 [![x-cmd/install — bcal Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bcal.svg)](https://x-cmd.com/install/bcal)
 
@@ -22,7 +22,7 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 | Python | 661 | 48 | 143 | 1 |
 | CHeader | 111 | 50 | 30 | 2 |
 | Makefile | 63 | 0 | 19 | 1 |
-| Markdown | 0 | 217 | 61 | 1 |
+| Markdown | 0 | 216 | 61 | 1 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.6` (2026-09-05)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-22
 - **Assets in release**: 1
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 20 · **Open PRs**: 2 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 412
+- **Releases**: 16 · **Merged PRs**: 20 · **Open PRs**: 2 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 415
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 2 | 0 | 0 | 1 |
-| last60d | 2026-09-23 | 0 | 0 | 2 | 0 | 0 | 1 |
-| 90d | 2026-08-24 | 1 | 0 | 2 | 0 | 0 | 5 |
-| last180d | 2026-05-26 | 1 | 0 | 2 | 1 | 0 | 9 |
-| 360d | 2025-11-27 | 2 | 0 | 2 | 2 | 0 | 70 |
-| last720d | 2024-12-02 | 2 | 3 | 2 | 2 | 0 | 78 |
+| 30d | 2026-10-24 | 0 | 0 | 2 | 0 | 0 | 4 |
+| last60d | 2026-09-24 | 0 | 0 | 2 | 0 | 0 | 4 |
+| 90d | 2026-08-25 | 1 | 0 | 2 | 0 | 0 | 8 |
+| last180d | 2026-05-27 | 1 | 0 | 2 | 1 | 0 | 12 |
+| 360d | 2025-11-28 | 2 | 0 | 2 | 2 | 0 | 73 |
+| last720d | 2024-12-03 | 2 | 3 | 2 | 2 | 0 | 81 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for bcal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:08:57Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:02:33Z._

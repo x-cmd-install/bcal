@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-:1234: Bits, bytes and general-purpose calculator
+:1234: Storage and general-purpose calculator
 
 [![x-cmd/install — bcal Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bcal.svg?lang=zh)](https://x-cmd.com/install/bcal)
 
@@ -22,7 +22,7 @@ x install bcal
 | Python | 661 | 48 | 143 | 1 |
 | CHeader | 111 | 50 | 30 | 2 |
 | Makefile | 63 | 0 | 19 | 1 |
-| Markdown | 0 | 217 | 61 | 1 |
+| Markdown | 0 | 216 | 61 | 1 |
 
 ## 源代码
 
@@ -32,7 +32,7 @@ x install bcal
 ## 发布
 
 - **最新版本**: `v2.6` (2026-09-05)
-- **最近提交**: 2026-10-31
+- **最近提交**: 2026-11-22
 - **Release 含资产**: 1 个
 
 ## 流行度
@@ -41,18 +41,18 @@ x install bcal
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 20 · **开放 PR**: 2 · **已关闭 issue**: 19 · **开放 issue**: 0 · **提交数**: 412
+- **发布数**: 16 · **已合并 PR**: 20 · **开放 PR**: 2 · **已关闭 issue**: 19 · **开放 issue**: 0 · **提交数**: 415
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 2 | 0 | 0 | 1 |
-| last60d | 2026-09-23 | 0 | 0 | 2 | 0 | 0 | 1 |
-| 90d | 2026-08-24 | 1 | 0 | 2 | 0 | 0 | 5 |
-| last180d | 2026-05-26 | 1 | 0 | 2 | 1 | 0 | 9 |
-| 360d | 2025-11-27 | 2 | 0 | 2 | 2 | 0 | 70 |
-| last720d | 2024-12-02 | 2 | 3 | 2 | 2 | 0 | 78 |
+| 30d | 2026-10-24 | 0 | 0 | 2 | 0 | 0 | 4 |
+| last60d | 2026-09-24 | 0 | 0 | 2 | 0 | 0 | 4 |
+| 90d | 2026-08-25 | 1 | 0 | 2 | 0 | 0 | 8 |
+| last180d | 2026-05-27 | 1 | 0 | 2 | 1 | 0 | 12 |
+| 360d | 2025-11-28 | 2 | 0 | 2 | 2 | 0 | 73 |
+| last720d | 2024-12-03 | 2 | 3 | 2 | 2 | 0 | 81 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ bcal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261122.yml` · 2026-11-22T06:08:58Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T07:02:33Z._
