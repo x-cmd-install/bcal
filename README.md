@@ -47,35 +47,18 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 2 | 0 | 0 | 4 |
-| last60d | 2026-09-25 | 0 | 0 | 2 | 0 | 0 | 4 |
-| 90d | 2026-08-26 | 1 | 0 | 2 | 0 | 0 | 8 |
-| last180d | 2026-05-28 | 1 | 0 | 2 | 1 | 0 | 12 |
-| 360d | 2025-11-29 | 2 | 0 | 2 | 2 | 0 | 73 |
-| last720d | 2024-12-04 | 2 | 3 | 2 | 2 | 0 | 81 |
+| 30d | 2026-10-26 | 0 | 0 | 2 | 0 | 0 | 4 |
+| last60d | 2026-09-26 | 0 | 0 | 2 | 0 | 0 | 4 |
+| 90d | 2026-08-27 | 1 | 0 | 2 | 0 | 0 | 8 |
+| last180d | 2026-05-29 | 1 | 0 | 2 | 1 | 0 | 12 |
+| 360d | 2025-11-30 | 2 | 0 | 2 | 2 | 0 | 73 |
+| last720d | 2024-12-05 | 2 | 3 | 2 | 2 | 0 | 81 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [bcal-v2.6.tar.gz](https://github.com/jarun/bcal/releases/download/v2.6/bcal-v2.6.tar.gz) | 47.5 KiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **62** distros on [repology.org](https://repology.org/project/bcal). **15** are ✅ on the latest upstream release, **43** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.6` | ✅ latest |
-| Debian 14 | `2.6` | ✅ latest |
-| Debian 13 | `2.4` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.4` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.4` | ⚠️ outdated |
-| Homebrew | `2.6` | ✅ latest |
-| Fedora rawhide | `2.6` | ✅ latest |
-| Nix unstable | `2.6` | ✅ latest |
-| Void | `2.6` | ✅ latest |
-| openSUSE Tumbleweed | `2.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -86,4 +69,4 @@ Install metadata for bcal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:26:56Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T07:58:35Z._
