@@ -14,11 +14,11 @@ x install bcal
 
 ## Code insight
 
-Total: **3,624** lines of code across **6** files in the top 5 languages.
+Total: **3,622** lines of code across **6** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 2,789 | 213 | 594 | 1 |
+| C | 2,787 | 213 | 593 | 1 |
 | Python | 661 | 48 | 143 | 1 |
 | CHeader | 111 | 50 | 30 | 2 |
 | Makefile | 63 | 0 | 19 | 1 |
@@ -32,27 +32,27 @@ Total: **3,624** lines of code across **6** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.6` (2026-09-05)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-25
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 710 · **Forks**: 41 · **Open issues**: 19 · **Contributors**: 9
+- **Stars**: 710 · **Forks**: 41 · **Open issues**: 19 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 20 · **Open PRs**: 2 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 415
+- **Releases**: 16 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 419
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 2 | 0 | 0 | 4 |
-| last60d | 2026-09-26 | 0 | 0 | 2 | 0 | 0 | 4 |
-| 90d | 2026-08-27 | 1 | 0 | 2 | 0 | 0 | 8 |
-| last180d | 2026-05-29 | 1 | 0 | 2 | 1 | 0 | 12 |
-| 360d | 2025-11-30 | 2 | 0 | 2 | 2 | 0 | 73 |
-| last720d | 2024-12-05 | 2 | 3 | 2 | 2 | 0 | 81 |
+| 30d | 2026-10-27 | 0 | 2 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 2 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 1 | 2 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 1 | 2 | 0 | 1 | 0 | 0 |
+| 360d | 2025-12-01 | 2 | 2 | 0 | 2 | 0 | 0 |
+| last720d | 2024-12-06 | 2 | 5 | 0 | 2 | 0 | 85 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for bcal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T07:58:35Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T07:51:16Z._
